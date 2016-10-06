@@ -1,0 +1,9 @@
+[package]
+name = "otfmath"
+version = "0.1.0"
+authors = ["breeden"]
+
+[dependencies]
+byteorder="*"
+opentype="0.17.1"
+truetype="0.22"
